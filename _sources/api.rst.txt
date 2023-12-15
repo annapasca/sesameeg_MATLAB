@@ -6,12 +6,10 @@ API Documentation
 
 Functions:
 
-.. currentmodule:: IAS-MEG
 
-.. autofunction:: IAS_algorithm
-.. autofunction:: BuildAnatomicalPrior
-.. autofunction:: SetParameters
-.. autofunction:: SlicedVisualization_ActivityMap
-.. autofunction:: SingleSliceVisualization_ActivityMap
+.. module:: sesameeg_MATLAB
 
+.. function:: inverse_SESAME
+.. mat:function:: inverse_SESAME_viewer
 
+.. autoclass:: MyHandleClass
